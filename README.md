@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sidratulmuntahasara
+- 👋 Hi
 - 👀 I’m interested in Web Developing, Coding, Hackathon, Graphics designing
 - 🌱 I’m currently learning Python
 - 📫 Reach out to me through my e-mail: sidratul.s@outlook.com
