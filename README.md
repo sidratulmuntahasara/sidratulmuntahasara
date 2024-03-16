@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ThreeJS
 - 📫 Reach out to me through: <a href=sidratul.s@outlook.com>sidratul.s@outlook.com</a>
 
-$whoami
+
 <big><b><b>Skills:</b></b></big>
 
 
