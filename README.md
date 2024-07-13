@@ -36,7 +36,7 @@
 ---
 ### <img src="https://cdn.discordapp.com/emojis/519655779750379521.gif" width="27" height="28" /> ```Languages```
 
-[![My Skills](https://skillicons.dev/icons?i=css,html,js,bootstrap,flutter,mysql,nodejs,git,cpp,discordjs,django,npm,opencv,pandas,php,powershell,python,arduino,sass,threejs,unity,webpack,ai,firebase,aws,netlify,androidstudio&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=css,html,js,bootstrap,flutter,mysql,nodejs,git,cpp,discordjs,django,npm,opencv,pandas,php,powershell,python,arduino,sass,threejs,unity,webpack,firebase,netlify,androidstudio,pr,webflow,anaconda,apple,appwrite,aws,azure,bash,blender,cmake,codepen,dart,discord,bots,figma,gamemakerstudio,github,guthubactions,gmail,heroku,ai,instagram,linkedin,mongodb,mysql,notion,obsidian,ps,pycharm,py,pytorch,react,redhat,replit,sass,stackoverflow,sublime,sketchup,svg,tensorflow,twitter,vercel,visualstudio,vite,vscode,wordpress,windows,xd&theme=dark)](https://skillicons.dev)
 
 
 <div>
