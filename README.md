@@ -35,6 +35,10 @@
 
 ---
 ### <img src="https://cdn.discordapp.com/emojis/519655779750379521.gif" width="27" height="28" /> ```Languages```
+
+[![My Skills](https://skillicons.dev/icons?i=css,html,js,bootstrap,flutter,mysql,nodejs,git,cpp,discordjs,django,npm,opencv,pandas,php,powershell,python,arduino,sass,threejs,unity,webpack,ai,firebase,aws,netlify,androidstudio&theme=dark)](https://skillicons.dev)
+
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
