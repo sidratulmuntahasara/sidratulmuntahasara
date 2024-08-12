@@ -18,9 +18,13 @@
     <img src="https://img.shields.io/badge/Instagram-d62976?logo=instagram&logoColor=white"/>
   </a>
 </div>
+
   <img src="https://komarev.com/ghpvc/?username=sidratulmuntahasara&style=flat-square&color=blue" alt=""/>
   <h1>Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>  I'm Miss AI (SM. Sara) </h1>
  <h4>👩‍💻 An enthusiastic programmer, developer, designer, researcher and engineer <i> {& fun-fact: I love tech}</i>!</h4>
+ <a href="https://www.sidratulmuntahasara.com">
+    VISIT MY WEBSITE
+  </a>
 </div>
 
 ---
